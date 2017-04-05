@@ -1,5 +1,5 @@
 # DeepSleep
-Machine and Deep Learning experiments manager for Kaggle using C++11 and Python 
+Machine and Deep Learning experiments manager for Kaggle using C++11 and Python. 
 
 
 **DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Kaggle.
@@ -8,7 +8,9 @@ Machine and Deep Learning experiments manager for Kaggle using C++11 and Python
 
 ## Core features
 - GUI based on NanoGUI (C++11)
-- Server based on Flask and Celery 
+- Server based on Flask and Celery (Python)
+- ML model results are persisted to a Data Base (Postgres)
+- Everything can be installed using a single docker image
 
 ## Goodies
 In addition to the core functionality, DeepSleep provides some extra goodies:
