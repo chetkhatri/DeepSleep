@@ -4,13 +4,17 @@ Machine and Deep Learning experiments manager for Kaggle using C++11 (https://gi
 
 **DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Kaggle.
 
-![DeepSleep Architecture](DEEPSLEEP.png)
+![DeepSleep GUI](deep-sleep-gui.png)
 
 ## Core features
 - Run ML/DL Models using open source libraries such as sk-learn, xgboost and TensorFlow
 - Automatic grid/random/bayesian search for hyperparameter optimization.
 - Server based on Flask and Celery (Python)
 - ML model results and any other historical artefacts are persisted to a Data Base (Postgres)
+
+## High Level Diagram
+
+![DeepSleep Architecture](DEEPSLEEP.png)
 
 
 ## Goodies
