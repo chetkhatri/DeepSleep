@@ -1,5 +1,5 @@
 # DeepSleep
-Machine and Deep Learning experiments manager for Kaggle using C++11 (https://github.com/QuantScientist/nanogui) and Python. 
+Machine and Deep Learning experiments manager for Kaggle using C++11 (https://github.com/wjakob/nanogui) and Python. 
 
 
 **DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Kaggle.
@@ -11,14 +11,14 @@ Machine and Deep Learning experiments manager for Kaggle using C++11 (https://gi
 - Automatic grid/random/bayesian search for hyperparameter optimization.
 - Server based on Flask and Celery (Python)
 - ML model results and any other historical artefacts are persisted to a Data Base (Postgres)
-- Everything can be installed using a single docker image
 
 
 ## Goodies
 In addition to the core functionality, DeepSleep provides some extra goodies:
 - Open Source! 
 - Written by a Data Scientist for Data Scientists. 
-- A modern GUI based on NanoGUI (C++11)
+- A modern GUI based on NanoGUI (C++11) https://github.com/wjakob/nanogui
+- This project is self contained in one single Docker image
 
 ## About
 
