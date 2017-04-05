@@ -7,16 +7,18 @@ Machine and Deep Learning experiments manager for Kaggle using C++11 and Python.
 ![DeepSleep Architecture](DEEPSLEEP.png)
 
 ## Core features
-- GUI based on NanoGUI (C++11)
+- Run ML/DL Models using open source libraries such as sk-learn, xgboost and TensorFlow
+- Automatic grid/random/bayesian search for hyperparameter optimization.
 - Server based on Flask and Celery (Python)
-- ML model results are persisted to a Data Base (Postgres)
+- ML model results and any other historical artefacts are persisted to a Data Base (Postgres)
 - Everything can be installed using a single docker image
+
 
 ## Goodies
 In addition to the core functionality, DeepSleep provides some extra goodies:
-
-- 
-- 
+- Open Source! 
+- Written by a Data Scientist for Data Scientists. 
+- A modern GUI based on NanoGUI (C++11)
 
 ## About
 
