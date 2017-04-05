@@ -1,5 +1,5 @@
 # DeepSleep
-Machine and Deep Learning experiments manager for Kaggle using C++11 and Python. 
+Machine and Deep Learning experiments manager for Kaggle using C++11 (https://github.com/QuantScientist/nanogui) and Python. 
 
 
 **DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Kaggle.
