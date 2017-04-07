@@ -6,8 +6,6 @@ DeepSleep is intended to provide, you, the data scientist, an open source enviro
 
 The Server itself is based on Flask, Celery, Flower and Redis (see below). 
 
-**DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Data Sceintists.
-
 ![DeepSleep GUI](deep-sleep-gui.png)
 
 ## Core features
