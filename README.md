@@ -1,8 +1,13 @@
 # DeepSleep
-Machine and Deep Learning experiments manager for Kaggle using C++11 (https://github.com/wjakob/nanogui) and Python. 
+Machine and Deep Learning experiments manager 
 
+**DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Data Sceintists written using C++11 and Python.
 
-**DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Kaggle.
+DeepSleep is intended to provide, you, the data scientist, an open source environment for managing all your Data Science Experiments. It is targeted at both the academia and free for use also commercially. The idea was born out of my own experimnets and participation in Kaggle and Numer.ai. The UI is born out of my interest in Cross platform GUI’s, and therefore I opted for NanoGUI (https://github.com/wjakob/nanogui), a C++11 based UI framework.
+
+The Server itself is based on Flask, Celery, Flower and Redis (see below). 
+
+**DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Data Sceintists.
 
 ![DeepSleep GUI](deep-sleep-gui.png)
 
