@@ -1,5 +1,4 @@
-# DeepSleep
-Machine and Deep Learning experiments manager 
+# DeepSleep Machine and Deep Learning experiments manager. 
 
 **DeepSleep (WORK IN PROGRESS)** is a lightweight Machine and Deep Learning experiments manager for Data Sceintists written using C++11 and Python.
 
